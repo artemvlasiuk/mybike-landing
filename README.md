@@ -1,6 +1,6 @@
 **MyBike** is the landing page of a leading urban bicycle manufacturer, developed using advanced technologies to create a stylish and functional interface.
 
-[DEMO LINK](https://artemvlasiuk.github.io/mybike-landing/))
+[DEMO LINK](https://artemvlasiuk.github.io/mybike-landing/)
 [LAYOUT LINK](https://www.figma.com/file/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version?node-id=0%3A1)
 ***
 ### Technologies used:
